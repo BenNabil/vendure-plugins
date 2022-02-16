@@ -17,10 +17,10 @@
   "dependencies": {
     "@angular/core": "*",
     "@angular/forms": "*",
-    "@vendure/admin-ui": "^1.2.0",
-    "@vendure/common": "^1.2.0",
-    "@vendure/core": "^1.2.0",
-    "@vendure/ui-devkit": "^1.2.0",
+    "@vendure/admin-ui": "^1.4.5",
+    "@vendure/common": "^1.4.5",
+    "@vendure/core": "^1.4.5",
+    "@vendure/ui-devkit": "^1.4.5",
     "rxjs": "*",
     "typeorm": "*"
   },
